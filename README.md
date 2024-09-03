@@ -2,7 +2,7 @@
 - For instructions, visit [https://inteltechniques.com/voip.suite.html](https://inteltechniques.com/voip.suite.html)
 - Or the [Wiki](https://github.com/0perationPrivacy/voip/wiki) section..
 
-- View the [Changelog](CHANGELOG.md)
+- View  the [Changelog](CHANGELOG.md)
 
 - Report [Security Issues](SECURITY.md)
 
